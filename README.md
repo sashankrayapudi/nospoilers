@@ -29,6 +29,7 @@ Make watch groups with your friends and family to receive show recommendations!
 - Based on your group’s mutual services, Watch Buddy will recommend the highest rated shows
 
 [Trello](https://trello.com/invite/b/A0zpKHHI/e84fbcccc32178cbce1469b72da2bdda/watcherbuddy)
+
 [Pitch Deck](https://docs.google.com/presentation/d/1-H63W54U2n3uemM6pY40CewSpWYZ2xJDMYKUFheXSOI/edit)
 
 [Go To Watch Buddy!](https://no-spoilers.herokuapp)
