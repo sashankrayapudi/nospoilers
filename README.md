@@ -10,22 +10,22 @@ Make watch groups with your friends and family to receive show recommendations!
 
 # Technologies Used
 
--Python
--HTML
--CSS
--pip3
--Django
--Postresql
--DTL
--Bootstrap
+- Python
+- HTML
+- CSS
+- pip3
+- Django
+- Postresql
+- DTL
+- Bootstrap
 
 
 # Getting Started
 
 - User must be logged in to access all of the app's functionality
--Add services you watch to your profile
--Create a group and invite your friends with the group pin
--Based on your group’s mutual services, Watch Buddy will recommend the highest rated shows
+- Add services you watch to your profile
+- Create a group and invite your friends with the group pin
+- Based on your group’s mutual services, Watch Buddy will recommend the highest rated shows
 [Go To Watch Buddy!](https://no-spoilers.herokuapp)
 
 # Future Enhancements
