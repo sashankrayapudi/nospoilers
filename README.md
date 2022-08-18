@@ -5,6 +5,8 @@ The perfect platform to watch and track tv shows with your friends and family.
 Make watch groups with your friends and family to receive show recommendations!
 
 
+<img src="https://i.imgur.com/j0621IV.jpg">
+
 
 ## Profile Page
 <img src="https://i.imgur.com/89Y60aC.png">
